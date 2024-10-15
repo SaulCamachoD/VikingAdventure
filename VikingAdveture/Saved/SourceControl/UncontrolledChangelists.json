@@ -76,7 +76,14 @@
 				"C:/UnrealEngineGames/VikingAdventure/VikingAdveture/Content/Inputs/IMC_VikingGame.uasset",
 				"C:/UnrealEngineGames/VikingAdventure/VikingAdveture/Content/Blueprints/Animations/AB_VikingPlayer.uasset",
 				"C:/UnrealEngineGames/VikingAdventure/VikingAdveture/Content/Blueprints/Animations/BS_Movements.uasset",
-				"C:/UnrealEngineGames/VikingAdventure/VikingAdveture/Content/Resources/Animations/Run_Forward.uasset"
+				"C:/UnrealEngineGames/VikingAdventure/VikingAdveture/Content/Resources/Animations/Run_Forward.uasset",
+				"C:/UnrealEngineGames/VikingAdventure/VikingAdveture/Content/Resources/Animations/Falling_Idle.uasset",
+				"C:/UnrealEngineGames/VikingAdventure/VikingAdveture/Content/Resources/Animations/Jumping.uasset",
+				"C:/UnrealEngineGames/VikingAdventure/VikingAdveture/Content/Resources/Animations/Jumping_Down.uasset",
+				"C:/UnrealEngineGames/VikingAdventure/VikingAdveture/Content/Resources/Animations/Jumping_Up.uasset",
+				"C:/UnrealEngineGames/VikingAdventure/VikingAdveture/Content/Resources/Animations/Standing_Jump.uasset",
+				"C:/UnrealEngineGames/VikingAdventure/VikingAdveture/Content/Resources/Animations/Jumping_Up_Best.uasset",
+				"C:/UnrealEngineGames/VikingAdventure/VikingAdveture/Content/Resources/Animations/Jumping_Down_Best.uasset"
 			]
 		}
 	]

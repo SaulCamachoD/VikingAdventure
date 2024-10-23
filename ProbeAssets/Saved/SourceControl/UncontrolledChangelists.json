@@ -561,7 +561,6 @@
 				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/Sword/sword_diffuse_ncl1_1.uasset",
 				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/Sword/sword_diffuse_ncl1_2.uasset",
 				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/Sword/sword_diffuse_ncl1_3.uasset",
-				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/Sword/sword_displacement.uasset",
 				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/Sword/sword_normalmap.uasset",
 				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/Sword/sword_roughness.uasset",
 				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BU/70NA7FKIG8172HXHAHGILH.uasset",
@@ -641,7 +640,13 @@
 				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/UIPanels/icons/stoune_icon.uasset",
 				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/UIPanels/Gui_parts/warrior_silhouette_man.uasset",
 				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/UIPanels/Gui_parts/warrior_silhouette_woman.uasset",
-				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/UIPanels/icons/weapon_icon.uasset"
+				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/UIPanels/icons/weapon_icon.uasset",
+				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/WereWolf/cuerpo.uasset",
+				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/WereWolf/lobo_separado_Checker_Diffuse.uasset",
+				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/WereWolf/lobo_separado_Checker_Normal.uasset",
+				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/WereWolf/lobo_separado_Checker_Specular.uasset",
+				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/WereWolf/Werewolf.uasset",
+				"C:/UnrealEngineGames/VikingAdventure/ProbeAssets/Content/REsourses/Sword/sword_displacement.uasset"
 			]
 		}
 	]
